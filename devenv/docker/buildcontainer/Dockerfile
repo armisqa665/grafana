@@ -1,4 +1,4 @@
-FROM centos:6.6
+FROM centos:centos8
 
 RUN yum install -y initscripts curl tar gcc libc6-dev git
 
