@@ -244,7 +244,7 @@
     "@grafana/lezer-logql": "0.2.2",
     "@grafana/monaco-logql": "^0.0.7",
     "@grafana/o11y-ds-frontend": "workspace:*",
-    "@grafana/prometheus": "workspace:*",
+    "@grafana/prometheus": "0.0.1",
     "@grafana/runtime": "workspace:*",
     "@grafana/scenes": "2.6.6",
     "@grafana/schema": "workspace:*",
