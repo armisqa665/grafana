@@ -1,5 +1,5 @@
 
-FROM golang:latest 
+FROM golang:1.22.4 
 ADD main.go /
 WORKDIR /
 RUN go mod init alert_webhook_listener && go build -o main . 
