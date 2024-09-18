@@ -15,9 +15,9 @@
   },
   "dependencies": {
     "@emotion/css": "11.11.2",
-    "@grafana/data": "workspace:*",
+    "@grafana/data": "6.3.2",
     "@grafana/experimental": "1.7.10",
-    "@grafana/runtime": "workspace:*",
+    "@grafana/runtime": "6.3.2",
     "@grafana/ui": "workspace:*",
     "@react-awesome-query-builder/ui": "6.4.2",
     "@types/lodash": "4.14.202",
