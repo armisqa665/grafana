@@ -239,7 +239,7 @@
     "@grafana/experimental": "1.7.10",
     "@grafana/faro-core": "^1.3.6",
     "@grafana/faro-web-sdk": "^1.3.6",
-    "@grafana/flamegraph": "workspace:*",
+    "@grafana/flamegraph": "11.3.0",
     "@grafana/google-sdk": "0.1.2",
     "@grafana/lezer-logql": "0.2.2",
     "@grafana/monaco-logql": "^0.0.7",
