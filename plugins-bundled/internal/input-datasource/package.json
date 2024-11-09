@@ -28,8 +28,8 @@
     "webpack": "5.76.0"
   },
   "dependencies": {
-    "@grafana/data": "10.4.0-pre",
-    "@grafana/ui": "10.4.0-pre",
+    "@grafana/data": "6.3.2",
+    "@grafana/ui": "6.3.2",
     "react": "18.2.0",
     "tslib": "2.5.0"
   }
