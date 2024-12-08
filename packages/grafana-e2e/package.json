@@ -76,7 +76,7 @@
     "devtools-protocol": "0.0.1170333",
     "execa": "5.1.1",
     "lodash": "4.17.21",
-    "mocha": "10.2.0",
+    "mocha": "11.0.1",
     "resolve-bin": "1.0.1",
     "rimraf": "5.0.1",
     "tracelib": "1.0.1",
