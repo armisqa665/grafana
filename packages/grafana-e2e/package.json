@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@babel/core": "7.23.2",
-    "@babel/preset-env": "7.23.2",
+    "@babel/preset-env": "7.27.1",
     "@cypress/webpack-preprocessor": "5.17.1",
     "@grafana/e2e-selectors": "10.4.0-pre",
     "@grafana/schema": "10.4.0-pre",
@@ -76,7 +76,7 @@
     "devtools-protocol": "0.0.1170333",
     "execa": "5.1.1",
     "lodash": "4.17.21",
-    "mocha": "10.2.0",
+    "mocha": "11.2.2",
     "resolve-bin": "1.0.1",
     "rimraf": "5.0.1",
     "tracelib": "1.0.1",
